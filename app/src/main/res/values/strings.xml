@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="profile">profile</string>
+    <string name="viewpager">viewpager</string>
+    <string name="tabs">tabs</string>
+    <string name="search">Search</string>
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="aplikasi_github_user">Aplikasi Github User</string>
+</resources>
